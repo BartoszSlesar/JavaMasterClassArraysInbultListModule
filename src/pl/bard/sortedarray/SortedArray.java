@@ -1,8 +1,5 @@
-package pl.bard.sortedArray;
+package pl.bard.sortedarray;
 
-import pl.bard.sortchallange.SortArrayChallenge;
-
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class SortedArray {
